@@ -288,3 +288,5 @@ Comparisons are case insensitive. For example, `Strung.toBoolean("On")` returns 
 #### Strung.map(str, mapper)
 
 Returns the result of applying `mapper` to each character in `str`. For example, `Strung.map("abc", (c) => Strung.toUpperCase(c))` returns `"ABC"`.
+
+[ahkpm]:https://ahkpm.dev/
