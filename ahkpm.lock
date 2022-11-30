@@ -1,0 +1,15 @@
+{
+  "lockfileVersion": "1",
+  "dependencies": {
+    "github.com/joshuacc/AutoHotUnit": "^2.1.0"
+  },
+  "resolved": [
+    {
+      "name": "github.com/joshuacc/AutoHotUnit",
+      "version": "^2.1.0",
+      "sha": "c1304bc70feccc60c32839482839380493a5e230",
+      "installPath": "ahkpm-modules/github.com/joshuacc/AutoHotUnit",
+      "dependencies": {}
+    }
+  ]
+}

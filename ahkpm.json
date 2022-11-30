@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "description": "A utility library for working with strings in AutoHotkey 2",
+  "repository": "https://github.com/joshuacc/strung.ahk",
+  "website": "https://github.com/joshuacc/strung.ahk",
+  "license": "MIT",
+  "issueTracker": "https://github.com/joshuacc/strung.ahk/issues",
+  "include": "strung.ahk",
+  "author": {
+    "name": "Joshua Clanton",
+    "email": "",
+    "website": "https://joshuaclanton.dev"
+  },
+  "scripts": {
+    "test": "ahk2 strung.test.ahk | echo"
+  },
+  "dependencies": {
+    "github.com/joshuacc/AutoHotUnit": "^2.1.0"
+  }
+}
