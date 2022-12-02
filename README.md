@@ -1,6 +1,7 @@
 # strung.ahk
 
-A utility library for working with strings in AutoHotkey 2
+A utility library for working with strings in AutoHotkey 2. Inspired by
+[underscore.string](https://github.com/esamattis/underscore.string).
 
 ## Installation
 
